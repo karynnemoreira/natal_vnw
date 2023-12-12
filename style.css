@@ -37,6 +37,11 @@ li:hover{
     color: green;
 }
 
+a{
+   text-decoration: none;
+   list-style: none; 
+}
+
 /*Estilização da main*/
 
 main{
